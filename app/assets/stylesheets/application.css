@@ -3,6 +3,6 @@
 *= require blogs
 *= require pages
 *= require posts
-*= require_selg
+*= require_self
 
 */
