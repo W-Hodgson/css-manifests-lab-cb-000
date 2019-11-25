@@ -1,7 +1,7 @@
 /*
 
-*= include blogs
-*= include pages
+*= require blogs
+*= require pages
 *= include posts
 
 */
