@@ -2,6 +2,6 @@
 
 *= require blogs
 *= require pages
-*= include posts
+*= require posts
 
 */
